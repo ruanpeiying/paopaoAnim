@@ -1,2 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_982e48882453e0ffaf4de07511d79a832a77abda.jar" />
+    </item>
+    <item
+        jar="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_79e86b34c4e5aa0a231129cecca45f40c39bfd12.jar" />
+    </item>
+    <item
+        jar="/Users/ruanpeiying/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_baaca73fef7f523966039c03a9e82599659af593.jar" />
+    </item>
+    <item
+        jar="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_bcd97c9578a28c3b9b6720df563b990ddcc125a1.jar" />
+    </item>
+    <item
+        jar="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/ruanpeiying/workDuia/github/paopao/paopaoAnim/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_70e003f233a2e0a1d43359bde8b070c47e5bffe9.jar" />
+    </item>
+
+</items>
